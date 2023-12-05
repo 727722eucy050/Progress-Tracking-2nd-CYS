@@ -1,0 +1,20 @@
+#b{
+  background-color:rgb(31, 124, 124);
+  text-align: center;
+  color: aliceblue;
+}
+img{
+  height: 300px;
+  width: 500px;
+  padding-left: 500px;
+}
+#v{
+  padding-left: 500px;
+}
+.one{
+  background-color: black;
+}
+#link{
+  text-align: center;
+  color: azure;
+}
